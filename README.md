@@ -29,7 +29,7 @@ const sachin = {
 ## 🎯 Current Status
 
 - 🔭 **Currently Working On**: Building full-stack applications with modern tech stack
-- 🌱 **Learning**: Advanced Backend Architecture, Microservices, and DevOps
+- 🌱 **Learning**: Advanced Backend Architecture
 - 👯 **Looking to Collaborate**: Open source projects, hackathons, and innovative web apps
 - 🤔 **Seeking Help With**: System Design and scalable architecture patterns
 - 💬 **Ask Me About**: React, JavaScript, Web Development, or anything tech!
@@ -119,17 +119,9 @@ const sachin = {
 
 🚀 **I'm always excited to work on:**
 - 🌐 Full-stack web applications
-- 🤖 AI/ML integration projects  
 - 📱 Mobile-responsive web apps
 - 🎆 Hackathon projects
 - 📁 Open source contributions
-
-🌱 **Currently exploring:**
-- Microservices architecture
-- Cloud computing (AWS/Azure)
-- Advanced React patterns
-- System design principles
-- DevOps practices
 
 </div>
 
