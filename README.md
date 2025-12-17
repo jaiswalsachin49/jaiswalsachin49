@@ -32,8 +32,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔹 **SkillSwap** — Social learning platform with real-time map & live streaming  
-- 🔹 **Portfolio** — Interactive portfolio using React & Framer Motion  
+- 🔹 **SkillSwap** — Social learning platform with real-time map & live streaming   
 - 🔹 **FuelFlow** — Petrol Pump Management Application  
 
 👉 Check pinned repositories below 👇
