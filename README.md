@@ -1,24 +1,54 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin+Jaiswal;Full-Stack+Developer+%F0%9F%9A%80;Building+Digital+Experiences+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi 👋, I'm Sachin Jaiswal</h1>
+<h3 align="center">Full Stack (MERN) Developer • Competitive Programmer</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaiswalsachin49&label=Profile%20views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jaiswalsachin49?label=Followers&style=for-the-badge&color=00d4ff" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jasiwalsachin49" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfoliosachin49.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  Building scalable web applications & solving algorithmic problems.
+</p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
+- 🚀 **MERN Stack Developer** — React, Node.js, Express, MongoDB  
+- 💻 **Competitive Programmer** — Codeforces *Pupil*, ICPC Prelims Rank ~1000  
+- 🧠 Strong in **DSA, problem-solving & system thinking**  
+- 🌱 Actively exploring **Open Source & scalable product development**
 
-```javascript
-const sachin = {
-  location: "India 🇮🇳",
-  role: "Full-Stack Developer",
-  education: "Computer Science Student",
-  focus: "Backend & System Design",
-  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
-  languages: ["JavaScript", "Python", "C++"],
-  funFact: "I debug with console.log 😄",
-};
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,git,github,js,cpp,python" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🔹 **SkillSwap** — Social learning platform with real-time map & live streaming  
+- 🔹 **Portfolio** — Interactive portfolio using React & Framer Motion  
+- 🔹 **FuelFlow** — Petrol Pump Management Application  
+
+👉 Check pinned repositories below 👇
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiswalsachin49&show_icons=true&theme=transparent" />
+  <!-- <br/> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=jaiswalsachin49&theme=transparent" /> -->
+</p>
+
+---
+
+### 🤝 Let’s Connect
+- 🔗 LinkedIn: https://www.linkedin.com/in/jasiwalsachin49  
+- 🌐 Portfolio: https://portfoliosachin49.vercel.app
