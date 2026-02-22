@@ -16,30 +16,30 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 **MERN Stack Developer** — React, Node.js, Express, MongoDB  
-- 💻 **Competitive Programmer** — Codeforces *Pupil*, ICPC Prelims Rank ~1000  
-- 🧠 Strong in **DSA, problem-solving & system thinking**  
-- 🌱 Actively exploring **Open Source & scalable product development**
+### About Me
+- **MERN Stack Developer** — React, Node.js, Express, MongoDB  
+- **Competitive Programmer** — Codeforces *Pupil*, ICPC Prelims Rank ~1000  
+- Strong in **DSA, problem-solving & system thinking**  
+- Actively exploring **Open Source & scalable product development**
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,git,github,js,cpp,python" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- 🔹 **SkillSwap** — Social learning platform with real-time map & live streaming   
-- 🔹 **FuelFlow** — Petrol Pump Management Application  
+### Featured Projects
+- **SkillSwap** — Social learning platform with real-time map & live streaming   
+- **FuelFlow** — Petrol Pump Management Application  
 
 👉 Check pinned repositories below 👇
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaiswalsachin49&show_icons=true&theme=transparent" />
   <!-- <br/> -->
@@ -48,6 +48,6 @@
 
 ---
 
-### 🤝 Let’s Connect
+###  Let’s Connect
 - 🔗 LinkedIn: https://www.linkedin.com/in/jasiwalsachin49  
 - 🌐 Portfolio: https://portfoliosachin49.vercel.app
